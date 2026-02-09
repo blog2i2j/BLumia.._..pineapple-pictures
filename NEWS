@@ -1,3 +1,19 @@
+Version 1.4.0
+~~~~~~~~~~~~~
+Released: 2026-02-11
+
+Features:
+ * Action to save image as new file with different format
+ * Add Vietnamese and Slovenian translation
+
+Miscellaneous:
+ * Update copyright year to 2026
+ * Update translations
+ * Update Qt version to 6.10.2 for Windows and macOS pre-built binaries
+
+Contributors:
+ Loc Huynh, Sabri Ünal, VenusGirl, Andrej Poženel, Andrey
+
 Version 1.3.0
 ~~~~~~~~~~~~~
 Released: 2025-12-20

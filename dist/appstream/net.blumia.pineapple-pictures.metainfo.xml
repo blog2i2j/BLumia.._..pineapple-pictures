@@ -81,6 +81,23 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release type="stable" version="1.4.0" date="2026-02-11T00:00:00Z">
+      <description>
+        <p>This release adds the following features:</p>
+        <ul>
+          <li>Action to save image as new file with different format</li>
+          <li>Add Vietnamese and Slovenian translation</li>
+        </ul>
+        <p>This release includes the following changes:</p>
+        <ul>
+          <li>Update copyright year to 2026</li>
+          <li>Update translations</li>
+          <li>Update Qt version to 6.10.2 for Windows and macOS pre-built binaries</li>
+        </ul>
+        <p>With contributions from:</p>
+        <p>Loc Huynh, Sabri Ünal, VenusGirl, Andrej Poženel, Andrey</p>
+      </description>
+    </release>
     <release type="stable" version="1.3.0" date="2025-12-20T00:00:00Z">
       <description>
         <p>This release adds the following features:</p>
